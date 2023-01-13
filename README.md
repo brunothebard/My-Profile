@@ -4,7 +4,7 @@
 <br>
 ### Abstract
 
- - 👨‍💻 Analysis Systems and Development at **UFBRA**.
+ - 👨‍💻 Analysis Systems and Development undergraduate student.
  - 🌱 Learning more about and studying: **Front-end using HTML, CSS and Javascript**.
  - 💙 Interests: games 👾, technology, movies and music!.
 - 📫 How to reach me **brunoarchaeology@outlook.com**
