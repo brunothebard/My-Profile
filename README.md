@@ -1,6 +1,6 @@
 
     
-### Welcome to Bruno Github Profile 🤖 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fbrunothebard"><img src="https://api.visitorbadge.io/api/visitors?path =https%3A%2F%2Fgithub.com%2Fbrunothebard&label=visitors&labelColor=%232ccce4&countColor=%23ba68c8&style=plastic&labelStyle=none"/></a>
+### Welcome to Bruno Github Profile! 🤖 
 <br>
 ### Abstract
 
