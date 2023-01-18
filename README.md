@@ -1,6 +1,6 @@
 
     
-### Welcome to Bruno Github Profile 🤖
+### Welcome to Bruno Github Profile 🤖 https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrunothebard&label=visitors&labelColor=%232ccce4&countColor=%23ba68c8&style=plastic&labelStyle=none
 <br>
 ### Abstract
 
@@ -14,7 +14,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://twitter.com/bruno_the_bard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bruno_the_bard" height="30" width="40" /></a>
+
 <a href="https://instagram.com/bruno_the_bard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bruno_the_bard" height="30" width="40" /></a>
 </p>
 
+<a href="https://www.linkedin.com/in/bruno-da-silva-bb80501aa/">
+  <img align="left" alt="Bruno's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
