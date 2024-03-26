@@ -4,7 +4,7 @@
 <br>
 ### Abstract
 
- - 👨‍💻 Analysis Systems and Development undergraduate student.
+ - 👨‍💻 Analysis Systems and Development undergraduate student. (3/5)
  - 🌱 Learning more about and studying: **Front-end using HTML, CSS, Javascript and REACT.
  - 💙 Interests: games 👾, technology, movies and music!.
 - 📫 How to reach me: **brunotech92@outlook.com**
