@@ -4,7 +4,7 @@
 <br>
 ### Resumo
 
- - 🎓 Arqueólogo pela Universidade do Estado dod Rio de Janeiro (UERJ).
+ - 🎓 Arqueólogo pela Universidade do Estado do Rio de Janeiro (UERJ).
  - 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas pela UFBRA (3/5).
  - 🌱 Sigo aprendendo e evoluindo nos estudos: **Front-end - HTML, CSS, Javascript e REACT.
  - 🐍 Estudando Python!
