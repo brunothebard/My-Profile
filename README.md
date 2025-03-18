@@ -23,7 +23,7 @@
 
 <br />
 
- 🤍 <i> Se inscreva no meu canal e me ajude a alcançar 2k: <br></i>
+ 🤍 <i> Se inscreva no meu canal e me ajude a alcançar 3k: <br></i>
 
    <a href="https://youtube.com/channel/UCIP_gUAb1_NcM0Up40kaTvQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    
